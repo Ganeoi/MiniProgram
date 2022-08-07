@@ -1,0 +1,5 @@
+/* pages/home/home.wxss */
+/* 该文件是编写页面的样式配置 */
+.title {
+  color: blue;
+}
